@@ -13,6 +13,7 @@
 <!-- Indice-->
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
+  <a  href="#-Layout">Layout</a> •
   <a href="#-Tecnologias">Tecnologias</a> • 
   <a href="#-licença">Licença</a>
 </p>
@@ -20,7 +21,7 @@
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
-Repositório criado para o curso de **HTML WEB DEVELOPER** Ministrado pelo professor Felipe Aguiar, o obejtivo desse desafio era recriar a tela inicial da Netflix.
+Repositório criado para o curso de **HTML WEB DEVELOPER** Ministrado pelo professor Felipe Aguiar, o objetivo desse desafio era recriar a tela inicial da Netflix.
 
 
 ## 🎨Layout
@@ -55,4 +56,10 @@ Repositório criado para o curso de **HTML WEB DEVELOPER** Ministrado pelo profe
 ---
 
 <h4 align=center>Desenvolvido por Felipe Santos <a href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/"> <strong>Entre em contato</strong> :)</a></a></h4>
+
+
+
+
+
+
 
